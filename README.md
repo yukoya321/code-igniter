@@ -24,5 +24,5 @@ docker attach bd903bea004c
 `CONTAINER ID` を確認する
 
 ```bash
-docker exec -it bd903bea004c bin/sh
+docker exec -it bd903bea004c /bin/sh
 ```
